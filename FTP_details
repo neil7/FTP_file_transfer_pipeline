@@ -1,0 +1,12 @@
+#Add files in the Source doc and change the path in the code
+#Add the FTP server details and run the file.
+
+#DLP test details -
+FTP_HOST = "ftp.dlptest.com"
+FTP_USER = "dlpuser"
+FTP_PASS = "rNrKYTX9g7z3RgJRmxWuGHbeu"
+
+#AWS EC2 Details -
+FTP_HOST = "18.220.164.24"
+FTP_USER = "ftpuser"
+FTP_PASS = "ftpuser"
